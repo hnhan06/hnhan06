@@ -1,22 +1,31 @@
-<h1 align="center">Hùng Nhân</h1>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:1E293B,75:334E8A,100:7AA2F7&height=230&section=header&text=HUNG%20NHAN&fontSize=62&fontColor=E0F2FE&fontAlignY=36&desc=ASPIRING%20FULL-STACK%20DEVELOPER%20&descSize=16&descColor=A5B4FC&descAlignY=58&animation=fadeIn"
+  alt="Hung Nhan - Developer Profile"
+/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;lines=Full-Stack+Developer+%7C+AI+Enthusiast" alt="Full-Stack Developer | AI Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1800&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=50&amp;lines=Aspiring+Full-Stack+Developer+%7C+AI+Enthusiast" alt="Aspiring Full-Stack Developer | AI Enthusiast" />
 </p>
 
 <p align="center">
-  Building practical web applications with clean code and thoughtful user experiences.
+  Learning full-stack development through coursework, personal projects, and teamwork.
 </p>
 
 <h2>About Me</h2>
 
 <p>
-  I'm <strong>Hùng Nhân</strong>, a <strong>Full-Stack Developer</strong> who enjoys turning ideas into useful web applications.
+  I'm <strong>Hùng Nhân</strong>, a <strong>university student</strong> learning <strong>full-stack web development</strong> and exploring practical applications of <strong>AI</strong>. Through coursework, personal projects, and team assignments, I'm developing a clearer understanding of how frontend interfaces, backend services, and databases work together.
+</p>
+
+<p>
+  My current focus is building a strong foundation in software development and improving the way I turn requirements into working features.
 </p>
 
 <ul>
-  <li>I design efficient <strong>RESTful APIs</strong> and integrate them seamlessly with modern user interfaces.</li>
-  <li>I focus on writing <strong>maintainable code</strong> and solving real-world problems through personal projects.</li>
+  <li>Practicing responsive UI development with <strong>React</strong> and RESTful API development with <strong>Node.js, .NET, and Spring Boot</strong>.</li>
+  <li>Improving my skills in <strong>database design, API testing, debugging, and writing maintainable code</strong>.</li>
+  <li>Learning to collaborate through <strong>Git</strong>, communicate technical ideas, and contribute effectively to team projects.</li>
 </ul>
 
 <h2>Tech Stack</h2>
@@ -74,6 +83,12 @@
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=hnhan06&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=false&amp;border_color=30363D&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9&amp;hide_rank=true&amp;card_width=460&amp;custom_title=GitHub%20Activity" alt="hnhan's GitHub activity statistics" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hnhan06&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;hide_border=false&amp;border_color=30363D&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;card_width=350" alt="Most used languages in hnhan's public repositories" />
+  <img height="165" align="center" src="https://github-stats-extended.vercel.app/api?username=hnhan06&amp;show_icons=true&amp;theme=tokyonight&amp;rank_icon=github&amp;hide_border=false&amp;border_radius=6&amp;card_width=450&amp;custom_title=H%C3%B9ng+Nh%C3%A2n%27s+GitHub+Stats" alt="Hùng Nhân's GitHub stats for hnhan06" />
+  <img height="165" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hnhan06&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=false&amp;border_radius=6&amp;card_width=280" alt="Most used languages in hnhan06's public repositories" />
+</p>
+
+<br />
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=hnhan06&amp;theme=tokyonight&amp;hide_border=false&amp;border_radius=6&amp;timezone=Asia%2FHo_Chi_Minh" alt="hnhan06's total contributions, current streak, and longest streak" />
 </p>

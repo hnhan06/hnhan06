@@ -83,7 +83,7 @@
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" align="center" src="https://github-stats-extended.vercel.app/api?username=hnhan06&amp;show_icons=true&amp;theme=tokyonight&amp;rank_icon=github&amp;hide_border=false&amp;border_radius=6&amp;card_width=450&amp;custom_title=H%C3%B9ng+Nh%C3%A2n%27s+GitHub+Stats" alt="Hùng Nhân's GitHub stats for hnhan06" />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hnhan06&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=buefy)](https://github-stats-extended.vercel.app/api?username=hnhan06&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=buefy)
   <img height="165" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hnhan06&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=false&amp;border_radius=6&amp;card_width=280" alt="Most used languages in hnhan06's public repositories" />
 </p>
 

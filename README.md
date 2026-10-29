@@ -82,13 +82,6 @@
 
 <h2>GitHub Stats</h2>
 
-<p align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hnhan06&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=buefy)](https://github-stats-extended.vercel.app/api?username=hnhan06&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=buefy)
-  <img height="165" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hnhan06&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=false&amp;border_radius=6&amp;card_width=280" alt="Most used languages in hnhan06's public repositories" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hnhan06&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=hnhan06&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-<br />
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=hnhan06&amp;theme=tokyonight&amp;hide_border=false&amp;border_radius=6&amp;timezone=Asia%2FHo_Chi_Minh" alt="hnhan06's total contributions, current streak, and longest streak" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hnhan06&layout=donut&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=hnhan06&layout=donut&langs_count=6&theme=tokyonight)
